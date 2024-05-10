@@ -29,13 +29,16 @@
 </div>
 <br>
 <br>
-This is the place where I opensource stuff and break things :rofl:
+
+🖥️ &nbsp;This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool
 - 🌱 &nbsp;I’m currently learning NodeJS, ExpressJS, Javascript, Typescript, and Go
 - 💬 &nbsp;Ask me about anything related to Laravel/Codeigniter/PHP
 - 👨‍💻 &nbsp;Read more about my projects at [ryansyah.xyz](https://ryansyah.xyz)
+<br>
+<br>
+📊 &nbsp;This week I spent my time on
 
-📊 &nbsp;**This week I spent my time on**
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=achdiadsyah&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
   
