@@ -13,7 +13,7 @@
     <a href="https://dev.to/achdiadsyah" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="achdiadsyah" height="30" width="30" style="margin-left: 1rem;" />
     </a>
-    <a href="https://twitter.com/achdiadsyah" target="blank">
+    <a href="https://twitter.com/achdiadsyah_" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achdiadsyah" height="30" width="30" style="margin-left: 1rem;" />
     </a>
     <a href="https://linkedin.com/in/achdiadsyah" target="blank">
